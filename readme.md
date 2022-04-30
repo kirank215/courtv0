@@ -1,6 +1,6 @@
 ## Why this project?
 
-The project was simply for a (lazy) friend who wanted to know if he had to go to court.\
+The project was simply for a (lazy)lawyer friend who wanted to know if he had to go to court.\
 The information is provided everyday in the form of a pdf by Madras High Court. 
 
 ## How does this work?
