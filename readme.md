@@ -11,8 +11,8 @@ The ps executable calls the python app and sends a notification by email.
 The power shell script can be added to the task scheduler present in windows so everything is automated!
 
 # Drawbacks
-You only have information about whether you're name is present or not
-the computer has to turned on when the script is run by the task scheduler
+You only have information about whether you're name is present or not.
+The computer has to turned on when the script is run by the task scheduler
 
-#Improvements?
+# Improvements?
 Check out -> [Version1](https://github.com/kirank215/courtv1)
