@@ -16,7 +16,7 @@ function Send-ToEmail([string]$email, [string]$subject, [string] $body){
  $subjects = 'Youre free for the day!','Your name is in the list :(','Ummm the cause list document is missing','this should not happen'
  $subject = $subjects[3]
 
-$val = python test.py
+$val = python court.py
 
  if($val -eq 'Y'){
    echo "value is Y"
